@@ -1,4 +1,0 @@
-SEP=,
-NAME,SUBSCRIPTION,RESOURCE GROUP,LOCATION,STATUS,OPERATING SYSTEM,SIZE,PUBLIC IP ADDRESS,DISKS,
-"ESUE-VM1","Free Trial","demo","East US","Running","Windows","Standard_DS1_v2","52.249.250.21","1"
-"ESUS-VM2","Free Trial","demo","East US","Running","Windows","Standard_DS1_v2","52.249.184.52","1"
