@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B4806ADC-7491-4F44-A57F-48CD047CB450}</ProjectGuid>
+    <ProjectGuid>{490ACDA9-BCB0-4447-B9DA-F13D755323AB}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>_1st_project</RootNamespace>
-    <AssemblyName>1st-project</AssemblyName>
+    <RootNamespace>WindowsFormsApp1</RootNamespace>
+    <AssemblyName>WindowsFormsApp1</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

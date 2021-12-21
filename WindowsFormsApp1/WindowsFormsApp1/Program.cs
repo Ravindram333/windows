@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace _1st_project
+namespace WindowsFormsApp1
 {
     internal static class Program
     {
